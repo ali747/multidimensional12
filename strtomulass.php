@@ -21,5 +21,5 @@ function superhero(array $arr)
 $superheroes = ["spider-man", "super-man", "iron-man"];
 //print_r($superheroes);
 $res=superhero($superheroes);
-//print_r($res);
+print_r($res);
 ?>
